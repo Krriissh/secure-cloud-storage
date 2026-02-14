@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# SCS Storage
+backend/storage/
+*.meta.json
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
