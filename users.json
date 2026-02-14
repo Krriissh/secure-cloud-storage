@@ -1,0 +1,37 @@
+[
+  {
+    "email": "test@example.com",
+    "password_hash": "1eba47882d84ea78a9e221d8dde9279bd1e8b54fa9166d59d27efda1a4c104aa",
+    "client_salt": "973dfe463ec85785f5f95af5ba3906ee",
+    "server_salt": "5260b9fdc07ca90f41ce5f8545daa9c2",
+    "created_at": "2026-02-13T12:23:52Z"
+  },
+  {
+    "email": "test@eg.com",
+    "password_hash": "948499c1ce521fe689aa9ba90d6e70db0c39f05b362aca3ae0ead87f47ab690f",
+    "client_salt": "2ec114c5e5a611fd25fafbe150e22a18",
+    "server_salt": "8c5ad3726aaa3428ab25ae5f535ee510",
+    "created_at": "2026-02-13T12:30:48Z"
+  },
+  {
+    "email": "demo@example.com",
+    "password_hash": "390edea8f5e63e97d38e29b9578898f9909b96e98696f9f089d59be216abc567",
+    "client_salt": "7462108984f629db2ced1aeb2dc3e747",
+    "server_salt": "88638f1bbb46d69067106dd3efa92b86",
+    "created_at": "2026-02-13T18:39:02Z"
+  },
+  {
+    "email": "cloudtest@example.com",
+    "password_hash": "15b65df5cbfa6835e9bcadc81443410e91ea655f481bd6cbf1dbb52143737175",
+    "client_salt": "811d25473ef62b728a23750ba23752c3",
+    "server_salt": "960ed274774f0066c58013ae93278b39",
+    "created_at": "2026-02-13T19:16:50Z"
+  },
+  {
+    "email": "managed_test@example.com",
+    "password_hash": "55cc83181c7b16543ad42c788f74c61beb2dc859bd54ae6a024b13a1c5b4af00",
+    "client_salt": "e527def5370fb158c4848edfb39cc7e5",
+    "server_salt": "f5df90f97aabc11536d3cc5f09f954b7",
+    "created_at": "2026-02-13T19:45:42Z"
+  }
+]
